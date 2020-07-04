@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+<h2>사진</h2> 
+<img src="static/image/image1.png"> 
+
+<!-- 사진을 누르면 hello/image url로 이동한다.-->>
+<a href={{ url_for('hello', name='image') }}>
+<img src={{ url_for('static', filename='/image/image1.png') }}>
+
+</body> 
+</html>
