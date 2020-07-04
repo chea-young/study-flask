@@ -6,5 +6,5 @@
 ]
 
 #### - 둘 다 다르다.
-    #### - @app.route('/test/')
-    #### - @app.route('/test')
+    - @app.route('/test/')
+    - @app.route('/test')
