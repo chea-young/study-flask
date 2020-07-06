@@ -8,3 +8,6 @@
 #### - 둘 다 다르다.
     - @app.route('/test/')
     - @app.route('/test')
+
+#### 참고 사이트
+    : https://wings2pc.tistory.com/category/KIT?page=1
