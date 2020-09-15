@@ -5,7 +5,7 @@
 #### - WSGI(Web Server Gateway Interface), Python 에서 웹서버와 애플리케이션간의 인터페이스(데이터 통로) 
 ]
 
-#### - 둘 다 다르다.
+#### -구분해야 될 점
     - @app.route('/test/')
     - @app.route('/test')
 
